@@ -1,0 +1,61 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: TestBackstageAppwithcatalogTableChanges
+  annotations:
+    confluence/page: 'TestBackstageApp with catalogTable Changes '
+    createdBy: admin
+    createdFrom: Created from Backstage
+    createdAt: Wed Jun 19 2024 16:53:59 GMT+0530 (India Standard Time)
+    updatedFrom: ''
+    lastUpdatedAt: ''
+spec:
+  type: service
+  owner: guest3
+  lifecycle: experimental
+  version: 'TestBackstageApp with catalogTable Changes '
+  projectInfo:
+    projectName: 'TestBackstageApp with catalogTable Changes '
+    moduleName: ''
+    informationAuthor: guest3
+    modality:
+      - PET
+    bodyParts: Brain
+    processingPurpose: ''
+    protocol: ''
+    algorithmType: ''
+    packageType: ''
+    supportedOs: Linux
+    sourceCodeLanguage: ''
+    developmentStatus: PROTOTYPE / CLINICAL EVALUATION
+    linkToProject: ''
+  applicationInfo:
+    linkAPI: ''
+    inputImages: ''
+    inputValues: ''
+    outputImages: ''
+    outputValues: ''
+    limitations: ''
+    algorithmDevelopmentCompany: ''
+  productization:
+    productizedApplication: ''
+    function: ''
+    productizedOwner: ''
+    releaseNotes: ''
+    knowIssues: ''
+  evaluationInformation:
+    evaluationResults: ''
+    evaluationType: ''
+    clinicalData: ''
+  algorithmInformation:
+    developmentPurpose: ''
+    developmentStatus: ''
+    algorithmDevelopmentCompany: ''
+    personinCharge: ''
+    collaborativeResearchPartner: ''
+    existenceofExternalIP: ''
+  technologyInformationforCMRE:
+    fundingProject: ''
+    group: ''
+    TRL: ''
+    projectStatus: ''
